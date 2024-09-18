@@ -21,3 +21,9 @@ You can choose to run it with or without debugging.
 Current Location Weather: Automatically detects the user’s location and displays the weather.
 City Search: Allows users to search and view weather data for any city.
 Responsive Design: Optimized for both Android and iOS devices.
+
+![w 4](https://github.com/user-attachments/assets/3a4682c8-8039-4662-8a4e-e4f98ebeb051)
+![w 3](https://github.com/user-attachments/assets/831b297f-7a76-4fc7-8079-f841396c45d2)
+![w 2](https://github.com/user-attachments/assets/dc2edc32-a762-450b-bc00-fc9af5a14c85)
+![w 1](https://github.com/user-attachments/assets/04d56c43-2810-4d4e-914d-1b7e310d924f)
+
