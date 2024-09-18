@@ -22,8 +22,8 @@ Current Location Weather: Automatically detects the user’s location and displa
 City Search: Allows users to search and view weather data for any city.
 Responsive Design: Optimized for both Android and iOS devices.
 
-![w 4](https://github.com/user-attachments/assets/3a4682c8-8039-4662-8a4e-e4f98ebeb051)
-![w 3](https://github.com/user-attachments/assets/831b297f-7a76-4fc7-8079-f841396c45d2)
-![w 2](https://github.com/user-attachments/assets/dc2edc32-a762-450b-bc00-fc9af5a14c85)
-![w 1](https://github.com/user-attachments/assets/04d56c43-2810-4d4e-914d-1b7e310d924f)
+![cl 1](https://github.com/user-attachments/assets/13004cd0-06e4-477a-a70c-72381c2e5a8f)
+![cl 2](https://github.com/user-attachments/assets/9db8ce9a-d27e-46f9-9e17-3186853783b6)
+
+
 
